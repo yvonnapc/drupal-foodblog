@@ -1,5 +1,0 @@
-name = Contact Edit
-description = A module to hide sections of the contact module
-package = Custom Modules
-core = 7.x
-files[] = contactedit.module

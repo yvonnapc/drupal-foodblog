@@ -1,0 +1,5 @@
+name = Node Form
+description = A module to alter any node form
+core = 7.x
+package = Epicodus Examples
+files[] = node_form.module
